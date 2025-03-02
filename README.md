@@ -29,7 +29,7 @@ This project performs an exploratory data analysis (EDA) on a retail sales datas
 This EDA helps in identifying sales patterns and provides data-driven recommendations for business growth.
 
 ## Author
-Your Name
+Abhinay kumar
 
 ---
-For any questions, please reach out to me via [LinkedIn](https://linkedin.com/in/yourprofile).
+For any questions, please reach out to me via [LinkedIn]((https://in.linkedin.com/in/theabhinaykumar)).
