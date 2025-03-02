@@ -32,4 +32,4 @@ This EDA helps in identifying sales patterns and provides data-driven recommenda
 Abhinay kumar
 
 ---
-For any questions, please reach out to me via [LinkedIn]((https://in.linkedin.com/in/theabhinaykumar)).
+For questions, reach out via [LinkedIn](https://linkedin.com/in/theabhinaykumar).
